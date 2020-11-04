@@ -1,0 +1,108 @@
+.loading {
+    @extend .transitionLeft;
+    left: -100%;
+    .body-loading & {
+        left: 0;
+        @include transition(none);
+    }
+    .lte8 & {
+        display: none;
+    }
+}
+
+.sqr {
+    position: relative;
+    display: block;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    picture, img {
+        position: relative;
+        vertical-align: middle;
+        display: inline-block;
+    }
+    @include mq-tablet {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+}
+
+.sqr-fb {
+    @extend .sqr;
+    background-color: $facebook_blue;
+    picture, img {
+        width: 14px;
+        @include mq-tablet {
+            width: 8px;
+        }
+    }
+}
+.sqr-tw {
+    @extend .sqr;
+    background-color: $twitter_blue;
+    picture, img {
+        width: 31px;
+        @include mq-tablet {
+            width: 15px;
+        }
+    }
+}
+.sqr-embed {
+    @extend .sqr;
+    background-color: $black;
+    picture, img {
+        width: 31px;
+        @include mq-tablet {
+            width: 15px;
+        }
+    }
+    @include mq-mobile {
+        display: none;
+    }
+}
+
+.socialicons {
+    position: fixed;
+    top: 20%;
+    right: 0;
+    z-index: 500;
+    @include mq-tablet {
+        position: fixed;
+        top: 0;
+        right: 0;
+        .sqr {
+            float: left;
+        }
+    }
+}
+
+.button {
+    position: relative;
+    display: inline-block;
+    margin: auto;
+    @extend .font-orev-bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 30px;
+    color: $red;
+    border: 0px none;
+    cursor: pointer;
+    @extend .transitionColorBG;
+    &:hover,
+    &.selected {
+        color: $black;
+    }
+}
+
+.headingicon {
+    position: relative;
+    width: 75px;
+    height: auto;
+    margin: auto;
+    margin-bottom: .5em;
+}
+
+

@@ -1,0 +1,29 @@
+[
+  {
+    "date_day": 1,
+    "date_month": 9,
+    "date_year": 2017,
+    "diesel": 0.1415607985,
+    "petrol": 0.5166364186,
+    "hybrid": 0.2558983666,
+    "electric": 0.08590441621
+  },
+  {
+    "date_day": 1,
+    "date_month": 11,
+    "date_year": 2017,
+    "diesel": 0.1161800487,
+    "petrol": 0.546836983,
+    "hybrid": 0.2840632603,
+    "electric": 0.05291970803
+  },
+  {
+    "date_day": 1,
+    "date_month": 2,
+    "date_year": 2018,
+    "diesel": 0.1826086957,
+    "petrol": 0.5460869565,
+    "hybrid": 0.2023188406,
+    "electric": 0.06898550725
+  }
+]

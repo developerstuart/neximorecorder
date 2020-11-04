@@ -1,0 +1,110 @@
+[
+  {
+    "date_day": 1,
+    "date_month": 3,
+    "date_year": 2017,
+    "diesel": 0.4343418537,
+    "petrol": 0.5250873527,
+    "hybrid": 0.02619070905,
+    "electric": 0.01438008446
+  },
+  {
+    "date_day": 1,
+    "date_month": 4,
+    "date_year": 2017,
+    "diesel": 0.4491570004,
+    "petrol": 0.5095938873,
+    "hybrid": 0.02338962098,
+    "electric": 0.01785949131
+  },
+  {
+    "date_day": 1,
+    "date_month": 5,
+    "date_year": 2017,
+    "diesel": 0.4374895982,
+    "petrol": 0.5181757174,
+    "hybrid": 0.02760046171,
+    "electric": 0.01673422275
+  },
+  {
+    "date_day": 1,
+    "date_month": 6,
+    "date_year": 2017,
+    "diesel": 0.4253980251,
+    "petrol": 0.5305727618,
+    "hybrid": 0.02577510146,
+    "electric": 0.01825411169
+  },
+  {
+    "date_day": 1,
+    "date_month": 7,
+    "date_year": 2017,
+    "diesel": 0.4269056026,
+    "petrol": 0.518339959,
+    "hybrid": 0.03313044767,
+    "electric": 0.02162399072
+  },
+  {
+    "date_day": 1,
+    "date_month": 8,
+    "date_year": 2017,
+    "diesel": 0.3964910444,
+    "petrol": 0.5515942067,
+    "hybrid": 0.02979079717,
+    "electric": 0.0221239517
+  },
+  {
+    "date_day": 1,
+    "date_month": 9,
+    "date_year": 2017,
+    "diesel": 0.4006279317,
+    "petrol": 0.5462958835,
+    "hybrid": 0.03463010458,
+    "electric": 0.01844608024
+  },
+  {
+    "date_day": 1,
+    "date_month": 10,
+    "date_year": 2017,
+    "diesel": 0.3941399583,
+    "petrol": 0.5537581389,
+    "hybrid": 0.03038118718,
+    "electric": 0.0217207156
+  },
+  {
+    "date_day": 1,
+    "date_month": 11,
+    "date_year": 2017,
+    "diesel": 0.3774588635,
+    "petrol": 0.5683223167,
+    "hybrid": 0.02977235066,
+    "electric": 0.02444646908
+  },
+  {
+    "date_day": 1,
+    "date_month": 12,
+    "date_year": 2017,
+    "diesel": 0.3778529828,
+    "petrol": 0.5658481557,
+    "hybrid": 0.02727058083,
+    "electric": 0.0290282806
+  },
+  {
+    "date_day": 1,
+    "date_month": 1,
+    "date_year": 2018,
+    "diesel": 0.3587873972,
+    "petrol": 0.5860831831,
+    "hybrid": 0.0351679247,
+    "electric": 0.01996149497
+  },
+  {
+    "date_day": 1,
+    "date_month": 2,
+    "date_year": 2018,
+    "diesel": 0.3504362354,
+    "petrol": 0.6056679661,
+    "hybrid": 0.02477569457,
+    "electric": 0.01912010395
+  }
+]

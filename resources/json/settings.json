@@ -1,0 +1,92 @@
+{
+  "meta_title": {
+    "settingDescription": "Meta Title",
+    "text": "Fuel Barometer - Petrol, diesel, hybrid and electric car trends",
+    "count": 63
+  },
+  "meta_description": {
+    "settingDescription": "Meta Description",
+    "text": "The Confused.com Fuel Barometer looks at the changing trends of electric and hybrid cars, public perception, and the legislation that sparks conversation.",
+    "count": 154
+  },
+  "intro_title": {
+    "settingDescription": "Overall title of piece",
+    "text": "Fuel Barometer",
+    "count": 14
+  },
+  "intro_content": {
+    "settingDescription": "Intro Copy",
+    "text": "The year 2040 will see the end of new petrol and diesel cars on our roads as we embrace electric and hybrid vehicles.\n\nThe barometer uses Google Trends, car registration data and a nationally-representative survey to see how our attitudes towards alternative fuel is changing.\n\nPlease vote on the poll below and scroll down to explore the data.",
+    "count": 344
+  },
+  "poll_question": {
+    "settingDescription": "Question on poll",
+    "text": "What type of car do you currently drive?",
+    "count": 40
+  },
+  "poll_submit": {
+    "settingDescription": "CTA to interact with poll",
+    "text": "Enter",
+    "count": 5
+  },
+  "scrollButton_text": {
+    "settingDescription": "Scroll for more copy",
+    "text": "Explore data",
+    "count": 12
+  },
+  "graph_title": {
+    "settingDescription": "Title for area graphs are displayed in",
+    "text": "Fuel Trends",
+    "count": 11
+  },
+  "graph_intro_survey": {
+    "settingDescription": "Introductory text for survey data",
+    "text": "This chart shows the percentage of people who answered for each fuel type when asked “What car would you consider as your next purchase?” Source: Confused.com data.",
+    "count": 164
+  },
+  "graph_intro_registrations": {
+    "settingDescription": "Introductory text for car registration data",
+    "text": "This chart shows the percentage share of new vehicle registrations, broken down by fuel type.\nSource: <a href=\"https://www.smmt.co.uk/vehicle-data/car-registrations/\" target=\"_blank\" rel=\"noopener\">SMMT</a>",
+    "count": 206
+  },
+  "graph_intro_trends": {
+    "settingDescription": "Introductory text for Google Trends data",
+    "text": "This chart shows the popularity of conversation on each fuel type in Google search.\nSource: <a href=\"https://trends.google.com/trends/explore?cat=47&date=2017-03-01%202018-02-28&geo=GB&q=diesel,petrol,hybrid,electric\" target=\"_blank\" rel=\"noopener\">Google Trends</a>.",
+    "count": 267
+  },
+  "graph_yaxis_survey": {
+    "settingDescription": "Y axis title for Survey",
+    "text": "Percentage of respondants (%)",
+    "count": 29
+  },
+  "graph_yaxis_registrations": {
+    "settingDescription": "Y axis title for Registrations",
+    "text": "Percentage of total vehicles registered (%)",
+    "count": 43
+  },
+  "graph_yaxis_trends": {
+    "settingDescription": "Y axis title for trends",
+    "text": "Google Trends search index volume",
+    "count": 33
+  },
+  "methodology_content": {
+    "settingDescription": "Methodology text",
+    "text": "The Confused.com Fuel Barometer uses three different data points - nationally-representative surveys of UK motorists, SMMT registrations and Google Trends. All data points are broken down by vehicle type: diesel, petrol, hybrid and electric.\n\nThese figures look back at the past 12 months. Relevant government and industry announcements are added to the charts for context and to explain shifts in trends for each fuel type.",
+    "count": 424
+  },
+  "social_og_title": {
+    "settingDescription": "Title for facebook/opengraph",
+    "text": "Fuel Barometer",
+    "count": 14
+  },
+  "social_og_description": {
+    "settingDescription": "Description for facebook/opengraph",
+    "text": "In 2040, the sale of new petrol and diesel cars will be abolished in favour of electric cars. But are we any closer to fully embracing alternative fuel vehicles?",
+    "count": 161
+  },
+  "social_twitter_text": {
+    "settingDescription": "Text for Twitter Tweet",
+    "text": "Will we fully embrace electric cars before 2040? The Confused.com Fuel Barometer looks to answer this question %url%",
+    "count": 116
+  }
+}

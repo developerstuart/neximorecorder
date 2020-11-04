@@ -1,0 +1,45 @@
+.script {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 80%;
+    height: 100%;
+    overflow: scroll;
+    padding: 20px;
+    text-align: center;
+    white-space: wrap;
+    font-size: 1.5em;
+    line-height: 120%;
+    b {
+        position: relative;
+        display: block;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        &.highlight {
+            background-color: $blue;
+            color: $white;
+        }
+    }
+}
+.callform {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 20%;
+    height: 100%;
+    padding: 30px;
+    background-color: $blue;
+    color: $white;
+    .input {
+        position: relative;
+        padding: 20px;
+        font-size: 1em;
+        background-color: $white;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        color: $black;
+    }
+    button {
+        margin-top: 1em;
+    }
+}
